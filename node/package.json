@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagar satpute",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pokemon": "^2.3.1"
+  }
+}
